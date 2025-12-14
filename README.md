@@ -32,29 +32,29 @@ A full-stack e-commerce platform for selling traditional Indian sweets with JWT 
 
 ### Authentication
 
-|             L ogin              |               R egister               |
+|              Login              |               Register                |
 | :-----------------------------: | :-----------------------------------: |
 | ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
 
-|                    E mail Verification                    |                  F orgot Password                   |
+|                    Email Verification                     |                   Forgot Password                   |
 | :-------------------------------------------------------: | :-------------------------------------------------: |
 | ![Email Verification](screenshots/email-verification.png) | ![Forgot Password](screenshots/forgot-password.png) |
 
 ### Customer Pages
 
-|       Home / Dashboard        |              S weets Explore              |
+|       Home / Dashboard        |              Sweets Explore               |
 | :---------------------------: | :---------------------------------------: |
 | ![Home](screenshots/home.png) | ![Sweets](screenshots/sweets-explore.png) |
 
-|                 S weet Detail                 |        S hopping Cart         |
+|                 Sweet Detail                  |         Shopping Cart         |
 | :-------------------------------------------: | :---------------------------: |
 | ![Sweet Detail](screenshots/sweet-detail.png) | ![Cart](screenshots/cart.png) |
 
-|               Razorpay Payment               |                 O rder Confirmation                  |
+|               Razorpay Payment               |                  Order Confirmation                  |
 | :------------------------------------------: | :--------------------------------------------------: |
 | ![Payment](screenshots/razorpay-payment.png) | ![Order Confirm](screenshots/order-confirmation.png) |
 
-|              M y Orders              |            O rder Details & Reviews             |
+|              My Orders               |             Order Details & Reviews             |
 | :----------------------------------: | :---------------------------------------------: |
 | ![Orders](screenshots/my-orders.png) | ![Order Reviews](screenshots/order-reviews.png) |
 
@@ -68,21 +68,21 @@ A full-stack e-commerce platform for selling traditional Indian sweets with JWT 
 | :---------------------------------------------: | :-----------------------------------------: |
 | ![Products](screenshots/product-management.png) | ![Add Product](screenshots/add-product.png) |
 
-|                 Order Management                  |             U ser Management              |
+|                 Order Management                  |              User Management              |
 | :-----------------------------------------------: | :---------------------------------------: |
 | ![Orders Admin](screenshots/order-management.png) | ![Users](screenshots/user-management.png) |
 
 ### Profile & Settings
 
-|                 Profile                  |           Change Password            |
-| :--------------------------------------: | :----------------------------------: |
-| ![User Profile](screenshots/profile.png) | ![Change Password hange-password.png |
+|                 Profile                  |                   Change Password                   |
+| :--------------------------------------: | :-------------------------------------------------: |
+| ![User Profile](screenshots/profile.png) | ![Change Password](screenshots/change_password.png) |
 
 ### Error Pages
 
-|              404 Page              |          505 Page           |
-| :--------------------------------: | :-------------------------: |
-| ![User Profile](screenshots/4.png) | ![Change Password](505.png) |
+|              404 Page              |                505 Page                 |
+| :--------------------------------: | :-------------------------------------: |
+| ![User Profile](screenshots/4.png) | ![Change Password](screenshots/505.png) |
 
 ## 🛠️ Tech Stack
 
@@ -336,15 +336,14 @@ This project was developed with assistance from AI tools as part of the developm
 ### How AI Was Used
 
 | Area                     | AI Contribution                                                                      |
-| ------------------------ | ------------------------------------------------------------------------------------ | --- |
+| ------------------------ | ------------------------------------------------------------------------------------ |
 | **Project Structure**    | Initial project scaffolding, folder organization, and file structure recommendations |
-| **API Design**           | RESTful endpoint design, request/response schemas, and error handling patterns       |     |
+| **API Design**           | RESTful endpoint design, request/response schemas, and error handling patterns       |
 | **Razorpay Integration** | Payment gateway setup, order creation, and webhook verification                      |
-
-| **Nodemailer Setup** Email service configuration, template design  
-| **Redis/BullMQ** Job queue implementation for async email processing | |
-| **Testing (TDD)** Jest configuration, test setup with MongoMemoryServer, and comprehensive test cases  
-| \*_UI/UX Fixes_ Responsive design improvements, loading states, and component stylin
+| **Nodemailer Setup**     | Email service configuration, template design                                         |
+| **Redis/BullMQ**         | Job queue implementation for async email processing                                  |
+| **Testing (TDD)**        | Jest configuration, test setup with MongoMemoryServer, and comprehensive test cases  |
+| **UI/UX Fixes**          | Responsive design improvements, loading states, and component styling                |
 
 ### AI Impact Reflection
 
