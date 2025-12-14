@@ -4,7 +4,7 @@ A full-stack e-commerce platform for selling traditional Indian sweets with JWT 
 
 ## � Demo Video
 
-[![SugarSphere Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/vrgN3_nnZ24)
+[![SugarSphere Demo](https://img.youtube.com/vi/vrgN3_nnZ24/maxresdefault.jpg)](https://www.youtube.com/watch?v=vrgN3_nnZ24)
 
 > 📺 Click the image above to watch the full project demo on YouTube
 
